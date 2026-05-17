@@ -1,16 +1,48 @@
-## Hi there 👋
+# Senior Software Engineer | Platform Engineering 
 
-<!--
-**SpongewareEnthusiast/SpongewareEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer with 5+ years of experience building secure, cloud-native systems in healthcare and financial services environments.
 
-Here are some ideas to get you started:
+I focus on backend systems, platform engineering, and improving developer experience through better infrastructure and tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Current Focus
+
+- Cloud-native systems on Kubernetes and Google Cloud Platform
+- CI/CD pipelines and deployment automation
+- Production reliability and incident response
+- System scalability and performance improvements
+
+
+## Tech Stack
+
+**Languages**
+Node.js · TypeScript · JavaScript · C# · SQL
+
+**Cloud & Infrastructure**
+Kubernetes · Docker · Google Cloud Platform · Terraform · Jenkins · Harness
+
+**Engineering**
+CI/CD · Git · Linux · Bash · Observability · Production Systems
+
+
+## Experience Highlights
+
+- Designed and delivered customer-facing systems in fintech environments
+- Migrated CI/CD pipelines from Jenkins to modern deployment platforms
+- Worked on services supporting large-scale load growth (1000× scaling improvements)
+- Built and maintained clinical systems used in live healthcare environments
+- Participated in production incident response for high-availability systems
+
+
+## Interests
+
+- Distributed systems
+- Developer experience and tooling
+- Cloud infrastructure
+- Systems reliability
+
+
+## Contact
+
+GitHub: https://github.com/SpongewareEnthusiast  
+Location: UK
